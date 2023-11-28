@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ncaa-basketball-406416",
+  "private_key_id": "16db59d1d937bf805ca92bcaf28c563c7a47d808",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDidazcOsUMgpul\nQMi6Xk0VlyZ+abu4BJQ6q7X0yIHRdeQJjtv4aBEr5GqEUkZHi73EizOyh4waJIwj\n3BnjxD18Acf+Juq+p3cttb07JJ9fT56MPDpKoiilmYuY79ZsRxmNuW3K01qLW733\nNC7Hxyawlf1DHolSXInufhViSnjzbVDEucno22GwcbMVA228PA7p5cHyDAhG506P\nkWb+96v8isbI3C9wff+SA8NzsIFrPhA/KHKrqU+Q2QOVFs3JXNaoOWtYIZoLrOnx\n3FDxy9RJ3kScyab0fPDJcQJ2xFtOZET8i8xsqi8jAlQDaLRYdEw22SQbn81Ikz0Q\nHSGwSAeZAgMBAAECggEAJsp1c7v1aPEubB4uxA3HMn2TsG+4IgtWwL4NCwMViaWi\nDCkWcPSSjGwx+ryFIVhEh1g44MnrK8c64iGfpa5FweokMdrEtyfEeGX7Jhhd3Fut\nEuR2L7abM9KbYPUkS6PaMraioe2WQuzSG3gq0zm/3Nu0aDzg1OTZE6sxSobrNPcg\nM8dHpWw94rsKI0ZJ+fROVcfivv7bRhV6dJyqcEjDBQ8lzB3UYNoSIxKSA19qqnmk\nD47+NP3Z9j5SP7QDkokJsHXmuC8n9vDdk8QxQXPV1uE6LY+3XNZFTGVtt7qwW6Z4\ntL+vriE/pMb22hGaWBfH5QZBCI8cqsOoWJzs6HmpIQKBgQDw6XbRie3kgqTSOYKl\nfuk5e7gTbsaQ0NWoGVAdQeqbkODsmKMX7nXWIPiTvkaKuquK9TOTUTWbVbpqPHLv\nq8yB57VgL1f36Hvx0hAO7U1XvqZQuQwHVZer27sdxwJyugmKRcR+6Y30LldcGq8u\nh6QvqvgWuHuzsUvC2Srx0lJszQKBgQDwpH9qGicbsQpLBtJBgbrQdQPBa5BlJpoZ\nKj7wJFOi34z2b89E3217MP5MzuBct9zZoxjRNw76mkCQ6HuoVKUT6IYRrevhwkzS\n/AvQDNx0un17PMVPbbFFx6gSRMA4ETYZARx9UF9e/FyfIa3iFqL1n8LQBoHMGuXN\n8gxgi3yF/QKBgQCzxuT+FRnLrppkrroJ2h0c4nBJQB85rj3ihZE9ZBU5JfJTXMxI\nbZDNzCjzx8hIemjM95IXW0DPvDeyU43JwMCKKGk3b90LiRgFKycEnJ1c306pao3J\nY1wdyYlm/T2cc6vu3YV2178w+uwCNX+JD3u8fq9H9T+KpsHMk9byQmtz+QKBgH35\nX0ooDrkMYRsNoxvv0eA2oZSrvpd1Mc5iszf7jF0DMkQAHD0tyZ5n83g6BHIFPnQg\nUWmUrR67iXlSewmP5isZ2rV+mrFAif8ZOwXa9b2VswLEuXXvMpIZBv8pRocTW4KT\ndlqTrJmI+uPDOcfVmdGDpPRJs8Epg4vgXmJcIv/xAoGAIjp6yupOJShqMqrO44HT\niuAZWqjmuC4Vfms7blRe6v2G189xRKu9rBEbt9Q30grr9SMzVix1faQ2UqBLewOc\n3gHO7/0CB3rFKDzDvrWyiJE+PHbnXzgYEgcgsBdtfGNNtw/YutxQruU34LoZyka1\n38+uKMpOUtb2+y84wTDQDwY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuero-project-public@ncaa-basketball-406416.iam.gserviceaccount.com",
+  "client_id": "117425801215864620275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuero-project-public%40ncaa-basketball-406416.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
